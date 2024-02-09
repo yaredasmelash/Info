@@ -1,0 +1,15 @@
+<smil>
+<head>
+    <layout>
+        <root-layout/>
+        <region id="text" top="70%" left="0%" height="30%" width="100%" fit="scrool"/>
+        <region id="image" top="0%"
+        left="0%" height="70%" width="100%" fit="meet"/>
+    </layout>
+</head>
+<body>
+    <par dur="10s">
+        <ref src="CL.loc.vfc"/>
+    </par>
+</body>
+<smil>
